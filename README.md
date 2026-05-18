@@ -8,6 +8,7 @@ AutoHotkey v2 + Node.js 全局快捷键工具集。
 |--------|------|------|
 | `Ctrl+Alt+F` | 格式化选中的 SQL | FormatSQL.ahk |
 | `Ctrl+Alt+T` | 翻译选中中文为 snake_case 字段名 | TranslateField.ahk |
+| `Ctrl+Alt+P` | 模糊搜索文件夹并打开 Claude | OpenClaude.ahk |
 
 ## 安装
 
@@ -27,3 +28,4 @@ npm install
 
 - **SQL 格式化**：使用 sql-formatter 库，自动识别 Hive/Spark 方言（LATERAL VIEW、数组下标、${var} 等），关键字大写，逗号 trailing 风格
 - **字段翻译**：调用千问 3.5 大模型，将中文短语翻译为 snake_case 英文字段名
+- **Open Claude**：模糊搜索文件夹，选中后在对应目录打开 Claude Code，支持带记忆（`claude -c`）和普通模式

@@ -1,0 +1,12 @@
+{
+  "searchRoots": ["D:\\"],
+  "maxDepth": 3,
+  "ignoreDirs": [
+    "$RECYCLE.BIN", "System Volume Information",
+    "node_modules", ".git", "dist", "build", "__pycache__",
+    ".cache", "AppData", ".nuget", ".vs", ".gradle",
+    ".m2", ".cargo", "venv", ".venv", "env", "target",
+    ".idea", ".vscode", "out", "bin", "obj", "vendor",
+    "cache", "temp", "tmp", "logs", ".next", ".nuxt"
+  ]
+}
