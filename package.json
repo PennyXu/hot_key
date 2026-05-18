@@ -1,0 +1,8 @@
+{
+  "name": "sql-formatter-tool",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "sql-formatter": "^15.0.0"
+  }
+}
