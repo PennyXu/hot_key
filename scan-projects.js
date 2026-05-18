@@ -8,7 +8,7 @@ const SECRET = 'Y61OfCrwiEKa5WvrW6pKQkF72eMUYOjyqt9A4xZRFKE';
 const MODEL = 'Qwen3.5-35B-A3B';
 const CONCURRENCY = 8;
 const DESC_FILE = '.fp_desc';
-const MAX_FOLDERS = 500;
+const MAX_FOLDERS = 2000;
 
 function loadConfig() {
   return JSON.parse(fs.readFileSync(CONFIG_FILE, 'utf8'));

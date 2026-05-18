@@ -1,0 +1,1109 @@
+C:\Users\xupeng0117\.chelper
+C:\Users\xupeng0117\.claude
+C:\Users\xupeng0117\.claude\backups
+C:\Users\xupeng0117\.claude\debug
+C:\Users\xupeng0117\.claude\file-history
+C:\Users\xupeng0117\.claude\file-history\0112a709-5c19-48cb-9044-8bbb33b59771
+C:\Users\xupeng0117\.claude\file-history\03cbe451-09ae-48d6-b443-f6f9049accf4
+C:\Users\xupeng0117\.claude\file-history\04206d53-54a2-4bd0-a99f-2361852436a9
+C:\Users\xupeng0117\.claude\file-history\0d5e3c0d-8989-44d4-b970-b3f71d78c4e2
+C:\Users\xupeng0117\.claude\file-history\115995ec-3b80-4ba5-a238-10991ee3da32
+C:\Users\xupeng0117\.claude\file-history\1170ec08-9b7c-4b7c-8f46-c4d8292fac6d
+C:\Users\xupeng0117\.claude\file-history\133f0f16-82d9-47ad-b369-1aaecb926e83
+C:\Users\xupeng0117\.claude\file-history\15d26192-b601-4134-868d-d9444c674197
+C:\Users\xupeng0117\.claude\file-history\16149320-5d9c-49c6-b8e9-5d0edf8235d1
+C:\Users\xupeng0117\.claude\file-history\215858cf-2552-42e9-b7fd-a80d9235fbb7
+C:\Users\xupeng0117\.claude\file-history\26325d44-5b34-4b9d-8a4e-03ace5792052
+C:\Users\xupeng0117\.claude\file-history\268f8d94-36f8-41f0-8723-e792c3e452d6
+C:\Users\xupeng0117\.claude\file-history\28bb0310-e259-436c-8c9e-561524b2ebb9
+C:\Users\xupeng0117\.claude\file-history\28cef0f7-d82b-4407-9aff-442c0e74b8dc
+C:\Users\xupeng0117\.claude\file-history\2aeb9369-870e-4b14-a5dc-5221186d8760
+C:\Users\xupeng0117\.claude\file-history\2b7be9d1-6051-4dec-9807-aec5f19bc65d
+C:\Users\xupeng0117\.claude\file-history\2d996d37-922c-4a63-a1ae-bc275c044b4c
+C:\Users\xupeng0117\.claude\file-history\2e4eeba5-ddc7-4031-a711-a6dd6db67de9
+C:\Users\xupeng0117\.claude\file-history\2f434819-9a30-41e7-b851-d23e36a4804d
+C:\Users\xupeng0117\.claude\file-history\30ca0312-ea2b-4cbf-a884-27cd759e29ca
+C:\Users\xupeng0117\.claude\file-history\32d7fdf4-2d4b-41eb-bfa9-c9d9eb7be598
+C:\Users\xupeng0117\.claude\file-history\35b1c156-5289-42e3-8fba-3b1771edeb91
+C:\Users\xupeng0117\.claude\file-history\43bdbd6b-7cdd-4e56-a8a4-33dd510fe0a8
+C:\Users\xupeng0117\.claude\file-history\4ad569de-a61a-4a58-b759-91e45a8e7f5a
+C:\Users\xupeng0117\.claude\file-history\4b5c75d2-f94b-4fae-8f0d-b78233e1a168
+C:\Users\xupeng0117\.claude\file-history\5030396b-1880-4630-943f-d9e69c7abdd5
+C:\Users\xupeng0117\.claude\file-history\5665d4bd-a3ab-479f-933b-96fe58635b34
+C:\Users\xupeng0117\.claude\file-history\622e35b2-beba-46fd-b6bb-708a0bd6e0af
+C:\Users\xupeng0117\.claude\file-history\6683db34-39f6-47eb-8f3e-e8faa3dedbca
+C:\Users\xupeng0117\.claude\file-history\6ae14e90-5c85-4259-af21-61602622ef76
+C:\Users\xupeng0117\.claude\file-history\72b328c7-9161-40f9-91dd-7777888fb91d
+C:\Users\xupeng0117\.claude\file-history\7564e7e0-d6ce-4f4e-a0c2-64e2986687af
+C:\Users\xupeng0117\.claude\file-history\77bdca4e-5756-47a0-bf31-ff582a6634d2
+C:\Users\xupeng0117\.claude\file-history\79776aaa-614e-4378-8ac3-d322a43f504e
+C:\Users\xupeng0117\.claude\file-history\7a75c8f5-f8c5-44f5-8469-1fefb3527941
+C:\Users\xupeng0117\.claude\file-history\7b37a119-3ad3-4230-b962-524a76a2defa
+C:\Users\xupeng0117\.claude\file-history\7be72cd4-39d8-40df-8d46-723185e1ca77
+C:\Users\xupeng0117\.claude\file-history\821cbc3d-f6f6-4a60-86a5-a5f3734f957e
+C:\Users\xupeng0117\.claude\file-history\84fb395c-4b3c-48ae-9730-ce871b9e3809
+C:\Users\xupeng0117\.claude\file-history\865bb96f-0778-4c0f-9c28-24a1eb39c00c
+C:\Users\xupeng0117\.claude\file-history\8694c3a7-e376-46da-a277-78eb43b1a20f
+C:\Users\xupeng0117\.claude\file-history\869e234c-3ffd-452a-865e-35b771e50fd1
+C:\Users\xupeng0117\.claude\file-history\8e71a8c1-4c0b-457e-9c4a-30bef2e98fe6
+C:\Users\xupeng0117\.claude\file-history\9085a793-6bf8-4aaf-9bb8-91b24795adb8
+C:\Users\xupeng0117\.claude\file-history\943eec24-d97b-4e05-bd85-5fb8fa9f3913
+C:\Users\xupeng0117\.claude\file-history\94a52c83-1752-4a58-a659-fcf89d51c7ef
+C:\Users\xupeng0117\.claude\file-history\99d5c717-24d5-49d2-9794-084c5a42f1ac
+C:\Users\xupeng0117\.claude\file-history\9b984e0a-46b3-446e-a432-c7ad2ef03f8a
+C:\Users\xupeng0117\.claude\file-history\9ca9d0f4-bdf9-45fe-b285-c2ac4d38a18c
+C:\Users\xupeng0117\.claude\file-history\9fcc793c-0a77-4d47-b9b7-8b70221920e5
+C:\Users\xupeng0117\.claude\file-history\a095d3a2-baca-4cdd-8565-3220fb7a47cb
+C:\Users\xupeng0117\.claude\file-history\a3a117b6-1c0c-4e47-9f9b-1c1bbf686d80
+C:\Users\xupeng0117\.claude\file-history\a43783a7-bedd-45e3-8f0d-7e74338d6abc
+C:\Users\xupeng0117\.claude\file-history\a789d98d-dc89-4a1d-87a5-6c624ab463e8
+C:\Users\xupeng0117\.claude\file-history\b5858614-a057-4378-ae95-e051b89776cf
+C:\Users\xupeng0117\.claude\file-history\b736798f-3cd8-4116-8fab-16bb6f939e73
+C:\Users\xupeng0117\.claude\file-history\b7eac92e-0815-4e0c-8472-e8563cd782d0
+C:\Users\xupeng0117\.claude\file-history\b7eebe6e-568a-436b-8d22-2a666cabf820
+C:\Users\xupeng0117\.claude\file-history\b7f34b44-0195-4754-a342-18533af01d08
+C:\Users\xupeng0117\.claude\file-history\bdcaa99d-b70d-4bee-8119-eaf0b1c2ce19
+C:\Users\xupeng0117\.claude\file-history\c0c2e876-e85c-4215-a68c-0da00379bb05
+C:\Users\xupeng0117\.claude\file-history\c8172c8a-6fa1-4fd7-b3f5-4933c548b677
+C:\Users\xupeng0117\.claude\file-history\cc071e30-9dce-44f2-8bb1-ee655c06d3d7
+C:\Users\xupeng0117\.claude\file-history\ce36c1a5-5bb8-4d4e-b52d-f26c24f5504b
+C:\Users\xupeng0117\.claude\file-history\cef21e34-751e-44bb-accb-743282d0ebb2
+C:\Users\xupeng0117\.claude\file-history\d14c93c4-b051-4903-9966-103c6ef5bdbb
+C:\Users\xupeng0117\.claude\file-history\d563ea2b-9b4d-486c-8bd7-8dfa9f593773
+C:\Users\xupeng0117\.claude\file-history\d7d9e282-7a7e-4557-b10c-19de01f28293
+C:\Users\xupeng0117\.claude\file-history\d7f23845-ebfc-4918-8abc-e3fbdf8c16e6
+C:\Users\xupeng0117\.claude\file-history\dad8283a-ab38-45f4-99d2-fc06a3dfdf2d
+C:\Users\xupeng0117\.claude\file-history\df7d7cb0-8eb1-40eb-8b6b-9f6d75621484
+C:\Users\xupeng0117\.claude\file-history\e043c1b5-59dd-4cd2-992f-a38155ccaa64
+C:\Users\xupeng0117\.claude\file-history\e16704ab-776d-4d16-86c3-56739d50a11b
+C:\Users\xupeng0117\.claude\file-history\e425c756-70fe-4e7d-afea-51e91acbc6a7
+C:\Users\xupeng0117\.claude\file-history\e5a1937f-1ccd-4bb9-8619-f57e9c42d430
+C:\Users\xupeng0117\.claude\file-history\e7a2f0f1-b31f-4c2f-85be-78a73b520618
+C:\Users\xupeng0117\.claude\file-history\e97cdbc7-0dda-4f20-baea-d92ce1619fa9
+C:\Users\xupeng0117\.claude\file-history\e9ef5fc9-6733-4c85-ae6d-0772453707d6
+C:\Users\xupeng0117\.claude\file-history\f3c6f12b-f60e-4c67-b772-5bc555a0331c
+C:\Users\xupeng0117\.claude\file-history\f3f6e952-18e3-447b-90eb-ed7227e1715d
+C:\Users\xupeng0117\.claude\file-history\f6004c19-458e-4b87-abf4-984f14c4ba7d
+C:\Users\xupeng0117\.claude\file-history\f9ec8d1c-c25c-4d3d-8171-c5d2c1002594
+C:\Users\xupeng0117\.claude\file-history\fda3d7c6-7b30-49fb-8d3b-34bd36908ea2
+C:\Users\xupeng0117\.claude\ide
+C:\Users\xupeng0117\.claude\memory
+C:\Users\xupeng0117\.claude\paste-cache
+C:\Users\xupeng0117\.claude\plans
+C:\Users\xupeng0117\.claude\plugins
+C:\Users\xupeng0117\.claude\plugins\marketplaces
+C:\Users\xupeng0117\.claude\plugins\marketplaces\claude-plugins-official
+C:\Users\xupeng0117\.claude\projects
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\3256beec-df9a-44ed-9371-7d9631c41e37
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\3f94e843-0104-47ec-b639-1fc9b0bd5d2a
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\4f747496-f62a-42e3-9f79-4905abac00f8
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\520a5f57-3738-4819-8498-9bb880346280
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\67dc4b13-3e42-4b84-b8d0-a7040af2ec21
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\7793f91e-443f-4ffd-bcc0-b98f3da5d687
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\86b35d7d-de3b-4f22-9355-0000c980b072
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\8e130a05-25ed-4ab9-bc55-0c8b8ba95158
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\af1d319a-91f0-4900-b0a4-e598c0e544ff
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\b7409920-98b1-414b-be15-903799ea80b8
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\e055498c-ed10-4456-bf0d-6e391533fe56
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\e76a4c3f-3284-4ee6-a2e9-7a61460b9f87
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\ea6acb0c-3b60-4be2-853b-7e1e27558f30
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-IdeaProjects-spark\memory
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-ai-data-analysis
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-ai-data-analysis\396d7bee-4c29-43b3-921e-d0e326ab3e14
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-ai-data-analysis\442b66bf-3173-471c-be21-9b4ef8d0a0b5
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-ai-data-analysis\b589a6f1-7206-4a5d-9948-dff0259dec95
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-ai-data-analysis\memory
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-data-ai
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-jupyter-workspace
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117-jupyter-workspace\36bfc93d-e8a7-4341-bd12-67a94123d95f
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117\b7f34b44-0195-4754-a342-18533af01d08
+C:\Users\xupeng0117\.claude\projects\C--Users-xupeng0117\memory
+C:\Users\xupeng0117\.claude\projects\D--
+C:\Users\xupeng0117\.claude\projects\D------
+C:\Users\xupeng0117\.claude\projects\D-------
+C:\Users\xupeng0117\.claude\projects\D---------
+C:\Users\xupeng0117\.claude\projects\D----------
+C:\Users\xupeng0117\.claude\projects\D-----------
+C:\Users\xupeng0117\.claude\projects\D------------
+C:\Users\xupeng0117\.claude\projects\D---------------
+C:\Users\xupeng0117\.claude\projects\D------------------
+C:\Users\xupeng0117\.claude\projects\D------------------\268f8d94-36f8-41f0-8723-e792c3e452d6
+C:\Users\xupeng0117\.claude\projects\D------------------\622e35b2-beba-46fd-b6bb-708a0bd6e0af
+C:\Users\xupeng0117\.claude\projects\D------------------\e043c1b5-59dd-4cd2-992f-a38155ccaa64
+C:\Users\xupeng0117\.claude\projects\D---------------\7b37a119-3ad3-4230-b962-524a76a2defa
+C:\Users\xupeng0117\.claude\projects\D---------------\e9ef5fc9-6733-4c85-ae6d-0772453707d6
+C:\Users\xupeng0117\.claude\projects\D------------\1170ec08-9b7c-4b7c-8f46-c4d8292fac6d
+C:\Users\xupeng0117\.claude\projects\D-----------\38ed05cf-7a2f-4f06-928a-809630401528
+C:\Users\xupeng0117\.claude\projects\D-----------\b6790d7c-a8f7-4e6a-96ec-17826cd5b7cf
+C:\Users\xupeng0117\.claude\projects\D-----------\ce51a511-bb29-4e20-8217-406f81b8baba
+C:\Users\xupeng0117\.claude\projects\D---------\7be72cd4-39d8-40df-8d46-723185e1ca77
+C:\Users\xupeng0117\.claude\projects\D-------\dad8283a-ab38-45f4-99d2-fc06a3dfdf2d
+C:\Users\xupeng0117\.claude\projects\D-------work-projects----------
+C:\Users\xupeng0117\.claude\projects\D-------work-projects-----------
+C:\Users\xupeng0117\.claude\projects\D-------work-projects------------debug--
+C:\Users\xupeng0117\.claude\projects\D-------work-projects----------\9ca9d0f4-bdf9-45fe-b285-c2ac4d38a18c
+C:\Users\xupeng0117\.claude\projects\D-------work-projects-AI----
+C:\Users\xupeng0117\.claude\projects\D-------work-projects-AI--------
+C:\Users\xupeng0117\.claude\projects\D-------work-projects-AI----------
+C:\Users\xupeng0117\.claude\projects\D-------work-projects-AI----------\04206d53-54a2-4bd0-a99f-2361852436a9
+C:\Users\xupeng0117\.claude\projects\D------\memory
+C:\Users\xupeng0117\.claude\projects\D-----Foreign-Trade-Data
+C:\Users\xupeng0117\.claude\projects\D-----Foreign-Trade-Data\1252e81e-54c7-4a33-b077-4e16a309c350
+C:\Users\xupeng0117\.claude\projects\D-----Foreign-Trade-Data\a3a117b6-1c0c-4e47-9f9b-1c1bbf686d80
+C:\Users\xupeng0117\.claude\projects\D-----Foreign-Trade-Data\abe97f62-fe00-48bb-b986-b1fc6f7f6d7f
+C:\Users\xupeng0117\.claude\projects\D-----Foreign-Trade-Data\beb7624c-ff1c-4cff-b0ca-cfda89c73db5
+C:\Users\xupeng0117\.claude\projects\D-----Foreign-Trade-Data\bed55de3-e7fb-43bd-b23b-29957bfb5619
+C:\Users\xupeng0117\.claude\projects\D-----Foreign-Trade-Data\ca2aa446-3d85-4378-8990-c4d2d8808137
+C:\Users\xupeng0117\.claude\projects\D-----Foreign-Trade-Data\d02225be-cf12-4c8b-894e-624b4111f81d
+C:\Users\xupeng0117\.claude\projects\D-----Foreign-Trade-Data\e7dbe6a1-ebf1-4e19-ac27-8baab3a2e23c
+C:\Users\xupeng0117\.claude\projects\D-----Foreign-Trade-Data\memory
+C:\Users\xupeng0117\.claude\projects\D--BaiduNetdiskDownload
+C:\Users\xupeng0117\.claude\projects\D--BaiduNetdiskDownload\e0a7e9c7-632e-4fad-bbe0-11680ea7a1de
+C:\Users\xupeng0117\.claude\projects\D--BaiduNetdiskDownload\memory
+C:\Users\xupeng0117\.claude\projects\D--Milvus-Demo
+C:\Users\xupeng0117\.claude\projects\D--Milvus-Demo-----
+C:\Users\xupeng0117\.claude\projects\D--Milvus-Demo-----\16149320-5d9c-49c6-b8e9-5d0edf8235d1
+C:\Users\xupeng0117\.claude\projects\D--Milvus-Demo-----\27b75e1f-7757-44f0-9191-9fea1172ce76
+C:\Users\xupeng0117\.claude\projects\D--Milvus-Demo\e7a2f0f1-b31f-4c2f-85be-78a73b520618
+C:\Users\xupeng0117\.claude\projects\D--User-Mirror
+C:\Users\xupeng0117\.claude\projects\D--User-Mirror\f9ec8d1c-c25c-4d3d-8171-c5d2c1002594
+C:\Users\xupeng0117\.claude\projects\D--\6683db34-39f6-47eb-8f3e-e8faa3dedbca
+C:\Users\xupeng0117\.claude\projects\D--claude-web-chat
+C:\Users\xupeng0117\.claude\projects\D--dataagent
+C:\Users\xupeng0117\.claude\projects\D--spider
+C:\Users\xupeng0117\.claude\projects\D--spider\821cbc3d-f6f6-4a60-86a5-a5f3734f957e
+C:\Users\xupeng0117\.claude\projects\D--xhs-auto-analyzer
+C:\Users\xupeng0117\.claude\projects\D--xhs-auto-analyzer\2e4eeba5-ddc7-4031-a711-a6dd6db67de9
+C:\Users\xupeng0117\.claude\projects\c--Users-xupeng0117-IdeaProjects-spark-sales-ai-demo
+C:\Users\xupeng0117\.claude\projects\c--Users-xupeng0117-IdeaProjects-spark-sales-ai-demo\17a829d7-445e-4190-8c5b-504b7c512c47
+C:\Users\xupeng0117\.claude\sessions
+C:\Users\xupeng0117\.claude\shell-snapshots
+C:\Users\xupeng0117\.claude\skills
+C:\Users\xupeng0117\.claude\skills\data-analysis
+C:\Users\xupeng0117\.claude\skills\fob-crawler
+C:\Users\xupeng0117\.claude\skills\md-decouple
+C:\Users\xupeng0117\.claude\skills\pdf-decouple
+C:\Users\xupeng0117\.claude\skills\ppt-master
+C:\Users\xupeng0117\.claude\skills\ppt-master\docs
+C:\Users\xupeng0117\.claude\skills\ppt-master\projects
+C:\Users\xupeng0117\.claude\skills\ppt-master\references
+C:\Users\xupeng0117\.claude\skills\ppt-master\scripts
+C:\Users\xupeng0117\.claude\skills\ppt-master\templates
+C:\Users\xupeng0117\.claude\skills\ppt-master\workflows
+C:\Users\xupeng0117\.claude\skills\project-check-notes
+C:\Users\xupeng0117\.claude\skills\project-create
+C:\Users\xupeng0117\.claude\skills\project-update-notes
+C:\Users\xupeng0117\.claude\skills\project-update-progress
+C:\Users\xupeng0117\.claude\skills\qwen-api
+C:\Users\xupeng0117\.claude\skills\report-to-openclaw
+C:\Users\xupeng0117\.claude\skills\skill-writer
+C:\Users\xupeng0117\.claude\skills\travel-planner
+C:\Users\xupeng0117\.claude\skills\vosk-transcribe
+C:\Users\xupeng0117\.claude\skills\项目跟进
+C:\Users\xupeng0117\.claude\tasks
+C:\Users\xupeng0117\.claude\tasks\04b2c6df-bc40-4b21-a411-1625b48af673
+C:\Users\xupeng0117\.claude\tasks\1252e81e-54c7-4a33-b077-4e16a309c350
+C:\Users\xupeng0117\.claude\tasks\1cef3728-b1f6-49ce-b0fe-61c50fe26e8e
+C:\Users\xupeng0117\.claude\tasks\215858cf-2552-42e9-b7fd-a80d9235fbb7
+C:\Users\xupeng0117\.claude\tasks\2d996d37-922c-4a63-a1ae-bc275c044b4c
+C:\Users\xupeng0117\.claude\tasks\3256beec-df9a-44ed-9371-7d9631c41e37
+C:\Users\xupeng0117\.claude\tasks\442b66bf-3173-471c-be21-9b4ef8d0a0b5
+C:\Users\xupeng0117\.claude\tasks\622e35b2-beba-46fd-b6bb-708a0bd6e0af
+C:\Users\xupeng0117\.claude\tasks\728d1dba-d098-4fc2-b114-532d06900431
+C:\Users\xupeng0117\.claude\tasks\7b37a119-3ad3-4230-b962-524a76a2defa
+C:\Users\xupeng0117\.claude\tasks\821cbc3d-f6f6-4a60-86a5-a5f3734f957e
+C:\Users\xupeng0117\.claude\tasks\9085a793-6bf8-4aaf-9bb8-91b24795adb8
+C:\Users\xupeng0117\.claude\tasks\b6790d7c-a8f7-4e6a-96ec-17826cd5b7cf
+C:\Users\xupeng0117\.claude\tasks\bed55de3-e7fb-43bd-b23b-29957bfb5619
+C:\Users\xupeng0117\.claude\tasks\ca2aa446-3d85-4378-8990-c4d2d8808137
+C:\Users\xupeng0117\.claude\tasks\ce51a511-bb29-4e20-8217-406f81b8baba
+C:\Users\xupeng0117\.claude\tasks\d02225be-cf12-4c8b-894e-624b4111f81d
+C:\Users\xupeng0117\.claude\tasks\e0a7e9c7-632e-4fad-bbe0-11680ea7a1de
+C:\Users\xupeng0117\.claude\tasks\e7dbe6a1-ebf1-4e19-ac27-8baab3a2e23c
+C:\Users\xupeng0117\.claude\tasks\e9ef5fc9-6733-4c85-ae6d-0772453707d6
+C:\Users\xupeng0117\.claude\tasks\f012535e-7291-45ac-81da-d24fd4230281
+C:\Users\xupeng0117\.claude\tasks\f9ec8d1c-c25c-4d3d-8171-c5d2c1002594
+C:\Users\xupeng0117\.claude\telemetry
+C:\Users\xupeng0117\.config
+C:\Users\xupeng0117\.config\git
+C:\Users\xupeng0117\.focuswork-beta
+C:\Users\xupeng0117\.focuswork-beta\user-template
+C:\Users\xupeng0117\.focuswork-beta\user-template\openclaw
+C:\Users\xupeng0117\.focuswork-beta\user-template\openclaw\assets
+C:\Users\xupeng0117\.focuswork-beta\user-template\openclaw\docs
+C:\Users\xupeng0117\.focuswork-beta\user-template\openclaw\extensions
+C:\Users\xupeng0117\.focuswork-beta\user-template\python
+C:\Users\xupeng0117\.focuswork-beta\user-template\python\Lib
+C:\Users\xupeng0117\.focuswork-beta\user-template\python\Scripts
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\calculator
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\currency
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\edit-image
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\excel-reader
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\image-ocr
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\markdown-converter
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\mermaid
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\pdf-reader
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\qr-generator
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\rss-skill
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\timezone
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\vision-read
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\weather
+C:\Users\xupeng0117\.focuswork-beta\user-template\skills\web-search
+C:\Users\xupeng0117\.focuswork-beta\user-template\workspace
+C:\Users\xupeng0117\.focuswork-beta\users
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\agents
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\browser
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\canvas
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\cron
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\extensions
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\identity
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\media
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\openclaw
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\openclaw-weixin
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\python
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\skills
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\skills-custom
+C:\Users\xupeng0117\.focuswork-beta\users\xupeng0117\workspace
+C:\Users\xupeng0117\.fzf
+C:\Users\xupeng0117\.fzf\.github
+C:\Users\xupeng0117\.fzf\.github\ISSUE_TEMPLATE
+C:\Users\xupeng0117\.fzf\.github\workflows
+C:\Users\xupeng0117\.fzf\doc
+C:\Users\xupeng0117\.fzf\man
+C:\Users\xupeng0117\.fzf\man\man1
+C:\Users\xupeng0117\.fzf\plugin
+C:\Users\xupeng0117\.fzf\shell
+C:\Users\xupeng0117\.fzf\src
+C:\Users\xupeng0117\.fzf\src\algo
+C:\Users\xupeng0117\.fzf\src\protector
+C:\Users\xupeng0117\.fzf\src\tui
+C:\Users\xupeng0117\.fzf\src\util
+C:\Users\xupeng0117\.fzf\test
+C:\Users\xupeng0117\.fzf\test\lib
+C:\Users\xupeng0117\.fzf\test\vim
+C:\Users\xupeng0117\.idea-build
+C:\Users\xupeng0117\.idea-build\scala-compiler-interfaces
+C:\Users\xupeng0117\.idea-build\scala-compiler-interfaces\1.11.7-idea-6C60DEB6CBCBC85486382052BC7C30E7
+C:\Users\xupeng0117\.idlerc
+C:\Users\xupeng0117\.ipynb_checkpoints
+C:\Users\xupeng0117\.ipython
+C:\Users\xupeng0117\.ipython\profile_default
+C:\Users\xupeng0117\.ipython\profile_default\db
+C:\Users\xupeng0117\.ipython\profile_default\log
+C:\Users\xupeng0117\.ipython\profile_default\pid
+C:\Users\xupeng0117\.ipython\profile_default\security
+C:\Users\xupeng0117\.ipython\profile_default\startup
+C:\Users\xupeng0117\.ivy2
+C:\Users\xupeng0117\.jdks
+C:\Users\xupeng0117\.jupyter
+C:\Users\xupeng0117\.jupyter\lab
+C:\Users\xupeng0117\.jupyter\lab\workspaces
+C:\Users\xupeng0117\.matplotlib
+C:\Users\xupeng0117\.openclaw
+C:\Users\xupeng0117\.openclaw\agents
+C:\Users\xupeng0117\.openclaw\agents\main
+C:\Users\xupeng0117\.openclaw\agents\main\agent
+C:\Users\xupeng0117\.openclaw\agents\main\sessions
+C:\Users\xupeng0117\.openclaw\cron
+C:\Users\xupeng0117\.openclaw\devices
+C:\Users\xupeng0117\.openclaw\identity
+C:\Users\xupeng0117\.openclaw\media
+C:\Users\xupeng0117\.openclaw\media\inbound
+C:\Users\xupeng0117\.openclaw\skills
+C:\Users\xupeng0117\.openclaw\skills\project-progress-tracking
+C:\Users\xupeng0117\.openclaw\workspace
+C:\Users\xupeng0117\.openclaw\workspace\data_tables
+C:\Users\xupeng0117\.openclaw\workspace\data_tables\001sparksql_ads_sale_staff_biz_dtl
+C:\Users\xupeng0117\.openclaw\workspace\data_tables\ads_sales_wechat_friend_match_account_ed
+C:\Users\xupeng0117\.openclaw\workspace\data_tables\fai_ads_call_record_detail
+C:\Users\xupeng0117\.openclaw\workspace\data_tables\fai_ads_focusai_aisales_use_analysis
+C:\Users\xupeng0117\.openclaw\workspace\data_tables\fai_ads_sales_profile
+C:\Users\xupeng0117\.openclaw\workspace\data_tables\fai_stg_focusai_sale_yunke_phone_record_d
+C:\Users\xupeng0117\.openclaw\workspace\data_tables\micbidw_ads_finebi_sal_perf_wide
+C:\Users\xupeng0117\.openclaw\workspace\data_tables\micdw_dim_sal_sales
+C:\Users\xupeng0117\.openclaw\workspace\data_tables\ods_sale_visit_record_d
+C:\Users\xupeng0117\.openclaw\workspace\data_tables\stg_focusai_sale_wechat_message_record_d
+C:\Users\xupeng0117\.openclaw\workspace\memory
+C:\Users\xupeng0117\.openclaw\workspace\projects
+C:\Users\xupeng0117\.openclaw\workspace\projects\SalesFollowupValidityJudgment
+C:\Users\xupeng0117\.openclaw\workspace\projects\sales_rank_ai_analysis
+C:\Users\xupeng0117\.paddlex
+C:\Users\xupeng0117\.paddlex\func_ret
+C:\Users\xupeng0117\.paddlex\locks
+C:\Users\xupeng0117\.paddlex\official_models
+C:\Users\xupeng0117\.paddlex\official_models\PP-LCNet_x1_0_doc_ori
+C:\Users\xupeng0117\.paddlex\official_models\PP-LCNet_x1_0_doc_ori\._tmp
+C:\Users\xupeng0117\.paddlex\official_models\PP-LCNet_x1_0_textline_ori
+C:\Users\xupeng0117\.paddlex\official_models\PP-LCNet_x1_0_textline_ori\._tmp
+C:\Users\xupeng0117\.paddlex\official_models\PP-OCRv5_server_det
+C:\Users\xupeng0117\.paddlex\official_models\PP-OCRv5_server_det\._tmp
+C:\Users\xupeng0117\.paddlex\official_models\PP-OCRv5_server_rec
+C:\Users\xupeng0117\.paddlex\official_models\PP-OCRv5_server_rec\._tmp
+C:\Users\xupeng0117\.paddlex\official_models\UVDoc
+C:\Users\xupeng0117\.paddlex\official_models\UVDoc\._tmp
+C:\Users\xupeng0117\.ssh
+C:\Users\xupeng0117\.vscode-shared
+C:\Users\xupeng0117\.vscode-shared\sharedStorage
+C:\Users\xupeng0117\Contacts
+C:\Users\xupeng0117\Desktop
+C:\Users\xupeng0117\Documents
+C:\Users\xupeng0117\Documents\KingsoftData
+C:\Users\xupeng0117\Documents\KingsoftData\office6
+C:\Users\xupeng0117\Documents\xwechat_files
+C:\Users\xupeng0117\Documents\xwechat_files\Backup
+C:\Users\xupeng0117\Documents\xwechat_files\Backup\wxid_jw59ewij986j22
+C:\Users\xupeng0117\Documents\xwechat_files\all_users
+C:\Users\xupeng0117\Documents\xwechat_files\all_users\config
+C:\Users\xupeng0117\Documents\xwechat_files\all_users\head_imgs
+C:\Users\xupeng0117\Documents\xwechat_files\all_users\login
+C:\Users\xupeng0117\Documents\xwechat_files\all_users\sqlite
+C:\Users\xupeng0117\Documents\xwechat_files\wxid_jw59ewij986j22_a373
+C:\Users\xupeng0117\Documents\xwechat_files\wxid_jw59ewij986j22_a373\apm_record
+C:\Users\xupeng0117\Documents\xwechat_files\wxid_jw59ewij986j22_a373\business
+C:\Users\xupeng0117\Documents\xwechat_files\wxid_jw59ewij986j22_a373\config
+C:\Users\xupeng0117\Documents\xwechat_files\wxid_jw59ewij986j22_a373\db_storage
+C:\Users\xupeng0117\Documents\xwechat_files\wxid_jw59ewij986j22_a373\msg
+C:\Users\xupeng0117\Documents\xwechat_files\wxid_jw59ewij986j22_a373\resource
+C:\Users\xupeng0117\Downloads
+C:\Users\xupeng0117\Downloads\tab-clean-chrome-store
+C:\Users\xupeng0117\Downloads\tab-clean-chrome-store\__MACOSX
+C:\Users\xupeng0117\Downloads\tab-clean-chrome-store\__MACOSX\tab-clean-official-store
+C:\Users\xupeng0117\Downloads\tab-clean-chrome-store\tab-clean-official-store
+C:\Users\xupeng0117\Downloads\日志插件
+C:\Users\xupeng0117\Downloads\日志插件\__MACOSX
+C:\Users\xupeng0117\Downloads\日志插件\__MACOSX\assets
+C:\Users\xupeng0117\Downloads\日志插件\__MACOSX\css
+C:\Users\xupeng0117\Downloads\日志插件\__MACOSX\js
+C:\Users\xupeng0117\Downloads\日志插件\assets
+C:\Users\xupeng0117\Downloads\日志插件\css
+C:\Users\xupeng0117\Downloads\日志插件\js
+C:\Users\xupeng0117\Favorites
+C:\Users\xupeng0117\Favorites\Links
+C:\Users\xupeng0117\IdeaProjects
+C:\Users\xupeng0117\IdeaProjects\spark
+C:\Users\xupeng0117\IdeaProjects\spark\.claude
+C:\Users\xupeng0117\IdeaProjects\spark\common
+C:\Users\xupeng0117\IdeaProjects\spark\common\src
+C:\Users\xupeng0117\IdeaProjects\spark\hive
+C:\Users\xupeng0117\IdeaProjects\spark\hive\src
+C:\Users\xupeng0117\IdeaProjects\spark\sales-ai-demo
+C:\Users\xupeng0117\IdeaProjects\spark\sales-ai-demo\.claude
+C:\Users\xupeng0117\IdeaProjects\spark\sales-ai-demo\config
+C:\Users\xupeng0117\IdeaProjects\spark\sales-ai-demo\notebooks
+C:\Users\xupeng0117\IdeaProjects\spark\sales-ai-demo\output
+C:\Users\xupeng0117\IdeaProjects\spark\sales-ai-demo\scripts
+C:\Users\xupeng0117\IdeaProjects\spark\sales-ai-demo\sql
+C:\Users\xupeng0117\IdeaProjects\spark\scripts
+C:\Users\xupeng0117\IdeaProjects\spark\spark
+C:\Users\xupeng0117\IdeaProjects\spark\spark\src
+C:\Users\xupeng0117\Links
+C:\Users\xupeng0117\Music
+C:\Users\xupeng0117\Pictures
+C:\Users\xupeng0117\Pictures\Camera Roll
+C:\Users\xupeng0117\Pictures\Saved Pictures
+C:\Users\xupeng0117\Pictures\Screenshots
+C:\Users\xupeng0117\Pictures\指针
+C:\Users\xupeng0117\Pictures\指针\妮妮
+C:\Users\xupeng0117\Pictures\指针\妮妮\output
+C:\Users\xupeng0117\Postman
+C:\Users\xupeng0117\Postman\files
+C:\Users\xupeng0117\Saved Games
+C:\Users\xupeng0117\Searches
+C:\Users\xupeng0117\Tools
+C:\Users\xupeng0117\Tools\apache-maven-3.9.9
+C:\Users\xupeng0117\Tools\apache-maven-3.9.9\boot
+C:\Users\xupeng0117\Tools\apache-maven-3.9.9\conf
+C:\Users\xupeng0117\Tools\apache-maven-3.9.9\conf\logging
+C:\Users\xupeng0117\Tools\apache-maven-3.9.9\lib
+C:\Users\xupeng0117\Tools\apache-maven-3.9.9\lib\ext
+C:\Users\xupeng0117\Tools\apache-maven-3.9.9\lib\jansi-native
+C:\Users\xupeng0117\Videos
+C:\Users\xupeng0117\WPS Cloud Files
+C:\Users\xupeng0117\WPS Cloud Files\.448922704
+C:\Users\xupeng0117\WPS Cloud Files\.448922704\cachebackup
+C:\Users\xupeng0117\WPS Cloud Files\.448922704\file_thumbnail
+C:\Users\xupeng0117\WPS Cloud Files\.448922704\hyperionlocalcache
+C:\Users\xupeng0117\WPS Cloud Files\.448922704\hyperionlocalcache\wpsoffice
+C:\Users\xupeng0117\WPS Cloud Files\.448922704\hyperionlocalcache\yunbox
+C:\Users\xupeng0117\WPS Cloud Files\.448922704\syncfolderbackup
+C:\Users\xupeng0117\WPS Cloud Files\.448922704\user_thumbnail
+C:\Users\xupeng0117\WPS Cloud Files\.448922704\user_thumbnail\48x48
+C:\Users\xupeng0117\WPS Cloud Files\448922704
+C:\Users\xupeng0117\WPS Cloud Files\448922704\与我共享
+C:\Users\xupeng0117\WPS Cloud Files\448922704\与我共享_1
+C:\Users\xupeng0117\WPS Cloud Files\448922704\团队文档
+C:\Users\xupeng0117\WPS Cloud Files\448922704\应用
+C:\Users\xupeng0117\WPS Cloud Files\448922704\我的模板
+C:\Users\xupeng0117\WPS Cloud Files\448922704\漫游文档
+C:\Users\xupeng0117\WPS Cloud Files\448922704\解压后的文件
+C:\Users\xupeng0117\clawd
+C:\Users\xupeng0117\clawd\canvas
+C:\Users\xupeng0117\data_ai
+C:\Users\xupeng0117\data_ai\apps
+C:\Users\xupeng0117\data_ai\config
+C:\Users\xupeng0117\data_ai\config\schema_cache
+C:\Users\xupeng0117\data_ai\scripts
+C:\Users\xupeng0117\data_ai\src
+C:\Users\xupeng0117\data_ai\src\ai
+C:\Users\xupeng0117\data_ai\src\data
+C:\Users\xupeng0117\data_ai\src\sql
+C:\Users\xupeng0117\data_ai\src\utils
+C:\Users\xupeng0117\data_ai\tests
+C:\Users\xupeng0117\jupyter_workspace
+C:\Users\xupeng0117\jupyter_workspace\.agents
+C:\Users\xupeng0117\jupyter_workspace\.agents\skills
+C:\Users\xupeng0117\jupyter_workspace\.agents\skills\caveman
+C:\Users\xupeng0117\jupyter_workspace\.agents\skills\caveman-commit
+C:\Users\xupeng0117\jupyter_workspace\.agents\skills\caveman-review
+C:\Users\xupeng0117\jupyter_workspace\.agents\skills\compress
+C:\Users\xupeng0117\jupyter_workspace\.claude
+C:\Users\xupeng0117\jupyter_workspace\.claude\skills
+C:\Users\xupeng0117\jupyter_workspace\.ipynb_checkpoints
+C:\Users\xupeng0117\jupyter_workspace\caveman
+C:\Users\xupeng0117\jupyter_workspace\caveman\.agents
+C:\Users\xupeng0117\jupyter_workspace\caveman\.agents\plugins
+C:\Users\xupeng0117\jupyter_workspace\caveman\.claude-plugin
+C:\Users\xupeng0117\jupyter_workspace\caveman\.cursor
+C:\Users\xupeng0117\jupyter_workspace\caveman\.cursor\skills
+C:\Users\xupeng0117\jupyter_workspace\caveman\.github
+C:\Users\xupeng0117\jupyter_workspace\caveman\.github\ISSUE_TEMPLATE
+C:\Users\xupeng0117\jupyter_workspace\caveman\.github\workflows
+C:\Users\xupeng0117\jupyter_workspace\caveman\benchmarks
+C:\Users\xupeng0117\jupyter_workspace\caveman\benchmarks\results
+C:\Users\xupeng0117\jupyter_workspace\caveman\caveman
+C:\Users\xupeng0117\jupyter_workspace\caveman\caveman-compress
+C:\Users\xupeng0117\jupyter_workspace\caveman\caveman-compress\scripts
+C:\Users\xupeng0117\jupyter_workspace\caveman\compress
+C:\Users\xupeng0117\jupyter_workspace\caveman\docs
+C:\Users\xupeng0117\jupyter_workspace\caveman\evals
+C:\Users\xupeng0117\jupyter_workspace\caveman\evals\prompts
+C:\Users\xupeng0117\jupyter_workspace\caveman\evals\snapshots
+C:\Users\xupeng0117\jupyter_workspace\caveman\plugins
+C:\Users\xupeng0117\jupyter_workspace\caveman\plugins\caveman
+C:\Users\xupeng0117\jupyter_workspace\caveman\skills
+C:\Users\xupeng0117\jupyter_workspace\caveman\skills\caveman
+C:\Users\xupeng0117\jupyter_workspace\caveman\skills\caveman-commit
+C:\Users\xupeng0117\jupyter_workspace\caveman\skills\caveman-review
+C:\Users\xupeng0117\jupyter_workspace\caveman\skills\compress
+C:\Users\xupeng0117\jupyter_workspace\caveman\tests
+C:\Users\xupeng0117\jupyter_workspace\caveman\tests\caveman-compress
+C:\Users\xupeng0117\jupyter_workspace\skills
+C:\Users\xupeng0117\vosk-model-small-zh
+C:\Users\xupeng0117\vosk-model-small-zh\am
+C:\Users\xupeng0117\vosk-model-small-zh\conf
+C:\Users\xupeng0117\vosk-model-small-zh\graph
+C:\Users\xupeng0117\vosk-model-small-zh\graph\phones
+C:\Users\xupeng0117\vosk-model-small-zh\ivector
+D:\.claude
+D:\BaiduNetdiskDownload
+D:\BaiduNetdiskDownload\.accelerate
+D:\BaiduNetdiskDownload\.claude
+D:\BaiduNetdiskDownload\1 报表国际贸易外贸进出口船务资料 报关 清关 商检 进出口流程 原产地证
+D:\BaiduNetdiskDownload\1 报表国际贸易外贸进出口船务资料 报关 清关 商检 进出口流程 原产地证\进出口报关报检全套资料
+D:\BaiduNetdiskDownload\1 报表国际贸易外贸进出口船务资料 报关 清关 商检 进出口流程 原产地证\进出口报关报检全套资料\各国目的港清关要求（内含44国）
+D:\BaiduNetdiskDownload\【秒发】外贸国际物流及空运资料汇总，进出口贸
+D:\BaiduNetdiskDownload\【秒发】外贸国际物流及空运资料汇总，进出口贸\国际外贸干货
+D:\BaiduNetdiskDownload\【秒发】外贸国际物流及空运资料汇总，进出口贸\国际外贸干货\国际物流海运及空运相关资料
+D:\BaiduNetdiskDownload\国际贸易
+D:\BaiduNetdiskDownload\国际贸易\进出口报关报检全套资料
+D:\BaiduNetdiskDownload\国际贸易\进出口报关报检全套资料\进出口报关报检全套资料
+D:\BaiduNetdiskDownload\对外投资合作国别指南2024
+D:\BaiduNetdiskDownload\（2份）2025国家风险分析报告
+D:\Milvus Demo
+D:\Milvus Demo\.claude
+D:\Milvus Demo\贸探询盘
+D:\Milvus Demo\贸探询盘\.claude
+D:\Milvus Demo\贸探询盘\__MACOSX
+D:\Milvus Demo\贸探询盘\__MACOSX\询盘数据
+D:\Milvus Demo\贸探询盘\vector_kb
+D:\Milvus Demo\贸探询盘\vector_kb\milvus_data
+D:\Milvus Demo\贸探询盘\vector_kb\static
+D:\Milvus Demo\贸探询盘\询盘数据
+D:\Milvus Demo\贸探询盘\询盘数据\.claude
+D:\Milvus Demo\贸探询盘\询盘数据\询盘内容相关
+D:\Milvus Demo\贸探询盘\询盘数据\询盘分类及策略
+D:\Milvus Demo\贸探询盘\询盘数据\询盘回复模板
+D:\Milvus Demo\贸探询盘\询盘数据\谈判与场景应对
+D:\Milvus Demo\贸探询盘\询盘数据\风险与合规
+D:\Projects
+D:\Projects\Project1
+D:\Projects\Project1\.claude
+D:\User Mirror
+D:\User Mirror\.claude
+D:\User Mirror\app
+D:\User Mirror\app\api
+D:\User Mirror\app\engine
+D:\User Mirror\app\models
+D:\User Mirror\app\storage
+D:\User Mirror\data
+D:\User Mirror\examples
+D:\claude-web-chat
+D:\claude-web-chat\templates
+D:\dataagent
+D:\dataagent\ai-data-analysis
+D:\dataagent\ai-data-analysis\backend
+D:\dataagent\ai-data-analysis\frontend
+D:\dataagent\ai-data-analysis\style
+D:\dataagent\ai-data-analysis\style\guidelines
+D:\dataagent\ai-data-analysis\style\src
+D:\dataagent\ai-data-analysis\tables
+D:\dataagent\ai-data-analysis\tables\orders
+D:\dataagent\ai-data-analysis\tables\products
+D:\dataagent\ai-data-analysis\tables\sales_performance
+D:\dataagent\ai-data-analysis\tables\users
+D:\jihuo
+D:\jihuo\jihuo2099
+D:\jihuo\jihuo2099\config-jetbrains
+D:\jihuo\jihuo2099\plugins-jetbrains
+D:\jihuo\jihuo2099\scripts
+D:\jihuo\jihuo2099\vmoptions
+D:\longgengBaiDuNetDisk
+D:\longgengBaiDuNetDisk\10.十  专业订单处理
+D:\longgengBaiDuNetDisk\10.十  专业订单处理\1.全球检测认证，同步更新
+D:\longgengBaiDuNetDisk\4. 毅冰业务
+D:\longgengBaiDuNetDisk\4. 毅冰业务\10. 毅冰年度公开课
+D:\longgengBaiDuNetDisk\4.Mail Group专业开发，必须跟原创者学
+D:\longgengBaiDuNetDisk\4.Mail Group专业开发，必须跟原创者学\1. 英文邮件快速进阶，你也能做到
+D:\spider
+D:\spider\.claude
+D:\spider\output
+D:\spider\output\看厂撞车案例
+D:\spider\output\看厂撞车案例\cleansed
+D:\spider\output\看厂撞车案例\structured
+D:\spider\output\福步论坛
+D:\tools
+D:\tools\sql-formatter
+D:\travel-agent
+D:\travel-agent\data
+D:\travel-agent\services
+D:\travel-agent\templates
+D:\xhs-auto-analyzer
+D:\xhs-auto-analyzer\.claude
+D:\xhs-auto-analyzer\data
+D:\临时
+D:\临时\Foreign Trade Data
+D:\临时\Foreign Trade Data\.claude
+D:\临时\Foreign Trade Data\jac
+D:\临时\Foreign Trade Data\jac\JAC_案例按场景拆分
+D:\临时\Foreign Trade Data\vosk
+D:\临时\Foreign Trade Data\vosk_test
+D:\临时\Foreign Trade Data\vosk_test\audio_batch
+D:\临时\Foreign Trade Data\归档
+D:\临时\Foreign Trade Data\归档\询盘策略知识库_v2
+D:\临时\Foreign Trade Data\归档\询盘英文回复模版
+D:\临时\Foreign Trade Data\新一批数据
+D:\临时\Foreign Trade Data\新一批数据\询盘阶段各场景应对
+D:\临时\Foreign Trade Data\毅冰文档
+D:\临时\Foreign Trade Data\英文询盘回复模板
+D:\临时\Foreign Trade Data\解耦数据
+D:\临时\Foreign Trade Data\解耦数据\买家欺诈解耦数据
+D:\临时\Foreign Trade Data\解耦数据\产品合规解耦数据
+D:\临时\Foreign Trade Data\解耦数据\支付风险解耦数据
+D:\临时\Foreign Trade Data\解耦数据\英文询盘回复模板_按案例
+D:\临时\Foreign Trade Data\解耦数据\行业地域风险解耦数据
+D:\临时\Foreign Trade Data\解耦数据\询盘语言风格解耦数据
+D:\临时\Foreign Trade Data\解耦数据\询盘阶段各场景应对
+D:\临时\Foreign Trade Data\询盘内容相关
+D:\临时\Foreign Trade Data\询盘内容相关\买家欺诈
+D:\临时\Foreign Trade Data\询盘内容相关\风格分类、多国特色询盘
+D:\临时\Foreign Trade Data\询盘分类及策略
+D:\临时\Foreign Trade Data\询盘分类及策略\数据来源-毅冰视频课分析
+D:\临时\Foreign Trade Data\询盘回复模板
+D:\临时\Foreign Trade Data\询盘回复模板\根据询盘分类和策略的回复模板
+D:\临时\Foreign Trade Data\询盘数据
+D:\临时\Foreign Trade Data\询盘数据\询盘回复模板
+D:\临时\Foreign Trade Data\询盘数据\询盘识别与分类
+D:\临时\Foreign Trade Data\询盘数据\谈判与场景应对
+D:\临时\Foreign Trade Data\询盘数据\风险与合规
+D:\临时\Foreign Trade Data\风险合规知识
+D:\临时\Foreign Trade Data\风险合规知识\产品合规
+D:\临时\Foreign Trade Data\风险合规知识\支付风险
+D:\临时\Foreign Trade Data\风险合规知识\行业、地域风险
+D:\临时\外贸数据
+D:\临时\外贸数据\1.全球检测认证，同步更新
+D:\临时\外贸数据\10万外贸询盘
+D:\临时\外贸数据\4.Mail Group专业开发，必须跟原创者学
+D:\临时\外贸数据\4.Mail Group专业开发，必须跟原创者学\1. 英文邮件快速进阶，你也能做到
+D:\临时\外贸数据\8.八  提高询盘成交量
+D:\临时\外贸数据\8.八  提高询盘成交量\1.优势谈判，关键在“谈”
+D:\临时\外贸数据\8.八  提高询盘成交量\2.价格，并不是万能的
+D:\临时\外贸数据\asr_output
+D:\临时\外贸数据\asr_output\1.全球检测认证，同步更新
+D:\临时\外贸数据\asr_output\4.Mail Group专业开发，必须跟原创者学
+D:\临时\外贸数据\asr_output\8.八  提高询盘成交量
+D:\临时\外贸数据\asr_output\Cold Call实操全攻略
+D:\临时\外贸数据\asr_output\Doing business in Turkey
+D:\临时\外贸数据\asr_output\Strikingly建站课程--快速搭建营销型独立网站
+D:\临时\外贸数据\asr_output\YouTube视频营销推广
+D:\临时\外贸数据\asr_output\YouTube运营推广实战技巧
+D:\临时\外贸数据\asr_output\业务课《十五大模块★2024新版》
+D:\临时\外贸数据\asr_output\东南亚市场特点及开拓
+D:\临时\外贸数据\asr_output\中东市场分析及开发攻略
+D:\临时\外贸数据\asr_output\从思维到实操--亚马逊新手必学
+D:\临时\外贸数据\asr_output\传统欧美市场
+D:\临时\外贸数据\asr_output\北非市场开拓
+D:\临时\外贸数据\asr_output\国际贸语术语解析
+D:\临时\外贸数据\asr_output\外贸实战集训营--外贸十项技能班
+D:\临时\外贸数据\asr_output\外贸常用实用小工具荟萃
+D:\临时\外贸数据\asr_output\外贸搜索工具
+D:\临时\外贸数据\asr_output\外贸营销36技
+D:\临时\外贸数据\asr_output\外贸钓鱼诈骗邮件的识别和应对策略
+D:\临时\外贸数据\asr_output\外贸防骗攻略
+D:\临时\外贸数据\asr_output\如何成为报价高手
+D:\临时\外贸数据\asr_output\如何通过外贸市场调查来锁定订单
+D:\临时\外贸数据\asr_output\开发信没效果，你做对这些了吗
+D:\临时\外贸数据\asr_output\成交系列课程
+D:\临时\外贸数据\asr_output\打造高超的英文能力助力订单落地
+D:\临时\外贸数据\asr_output\新兴市场开拓
+D:\临时\外贸数据\asr_output\海外大客户开发
+D:\临时\外贸数据\asr_output\自建站布局与营销策略
+D:\临时\外贸数据\asr_output\询盘处理和邮件跟进技巧
+D:\临时\外贸数据\asr_output\跨境电商独立站全链路培训
+D:\临时\外贸数据\asr_output\轻松上手的社媒营销策划课
+D:\临时\外贸数据\asr_output\邮寄样品和样品沟通的开发信写作技巧
+D:\临时\外贸数据\asr_output\非洲市场开拓策略
+D:\临时\外贸数据\asr_output_交易链路_关键词
+D:\临时\外贸数据\asr_output_交易链路_关键词\PI发票与合同
+D:\临时\外贸数据\asr_output_交易链路_关键词\产品认证、合规
+D:\临时\外贸数据\asr_output_交易链路_关键词\付款
+D:\临时\外贸数据\asr_output_交易链路_关键词\关税
+D:\临时\外贸数据\asr_output_交易链路_关键词\售后
+D:\临时\外贸数据\asr_output_交易链路_关键词\报价谈判
+D:\临时\外贸数据\asr_output_交易链路_关键词\提单与单证
+D:\临时\外贸数据\asr_output_交易链路_关键词\清关与申报
+D:\临时\外贸数据\asr_output_交易链路_关键词\物流欺诈与纠纷
+D:\临时\外贸数据\asr_output_交易链路_关键词\生产与订单
+D:\临时\外贸数据\asr_output_交易链路_关键词\获客
+D:\临时\外贸数据\asr_output_交易链路_关键词\行业、地域风险分析和投资分析
+D:\临时\外贸数据\asr_output_交易链路_关键词\询盘
+D:\临时\外贸数据\asr_output_交易链路_关键词\运输方式
+D:\临时\外贸数据\asr_output_交易链路_关键词\选品
+D:\临时\外贸数据\asr_output_已完成
+D:\临时\外贸数据\asr_output_已完成\1.全球检测认证，同步更新
+D:\临时\外贸数据\asr_output_已完成\4.Mail Group专业开发，必须跟原创者学
+D:\临时\外贸数据\asr_output_已完成\8.八  提高询盘成交量
+D:\临时\外贸数据\asr_output_已完成\Cold Call实操全攻略
+D:\临时\外贸数据\asr_output_已完成\Doing business in Turkey
+D:\临时\外贸数据\asr_output_已完成\Strikingly建站课程--快速搭建营销型独立网站
+D:\临时\外贸数据\asr_output_已完成\YouTube视频营销推广
+D:\临时\外贸数据\asr_output_已完成\YouTube运营推广实战技巧
+D:\临时\外贸数据\asr_output_已完成\业务课《十五大模块★2024新版》
+D:\临时\外贸数据\asr_output_已完成\东南亚市场特点及开拓
+D:\临时\外贸数据\asr_output_已完成\中东市场分析及开发攻略
+D:\临时\外贸数据\asr_output_已完成\从思维到实操--亚马逊新手必学
+D:\临时\外贸数据\asr_output_已完成\传统欧美市场
+D:\临时\外贸数据\asr_output_已完成\北非市场开拓
+D:\临时\外贸数据\asr_output_已完成\国际贸语术语解析
+D:\临时\外贸数据\asr_output_已完成\外贸实战集训营--外贸十项技能班
+D:\临时\外贸数据\asr_output_已完成\外贸常用实用小工具荟萃
+D:\临时\外贸数据\asr_output_已完成\外贸搜索工具
+D:\临时\外贸数据\asr_output_已完成\外贸营销36技
+D:\临时\外贸数据\asr_output_已完成\外贸钓鱼诈骗邮件的识别和应对策略
+D:\临时\外贸数据\asr_output_已完成\外贸防骗攻略
+D:\临时\外贸数据\asr_output_已完成\如何成为报价高手
+D:\临时\外贸数据\asr_output_已完成\如何通过外贸市场调查来锁定订单
+D:\临时\外贸数据\asr_output_已完成\开发信没效果，你做对这些了吗
+D:\临时\外贸数据\asr_output_已完成\成交系列课程
+D:\临时\外贸数据\asr_output_已完成\打造高超的英文能力助力订单落地
+D:\临时\外贸数据\asr_output_已完成\新兴市场开拓
+D:\临时\外贸数据\asr_output_已完成\海外大客户开发
+D:\临时\外贸数据\asr_output_已完成\自建站布局与营销策略
+D:\临时\外贸数据\asr_output_已完成\询盘处理和邮件跟进技巧
+D:\临时\外贸数据\asr_output_已完成\跨境电商独立站全链路培训
+D:\临时\外贸数据\asr_output_已完成\轻松上手的社媒营销策划课
+D:\临时\外贸数据\asr_output_已完成\邮寄样品和样品沟通的开发信写作技巧
+D:\临时\外贸数据\asr_output_已完成\非洲市场开拓策略
+D:\临时\外贸数据\asr_output_语义解读
+D:\临时\外贸数据\asr_output_语义解读\1.全球检测认证，同步更新
+D:\临时\外贸数据\asr_output_语义解读\4.Mail Group专业开发，必须跟原创者学
+D:\临时\外贸数据\asr_output_语义解读\8.八  提高询盘成交量
+D:\临时\外贸数据\asr_output_语义解读\业务课《十五大模块★2024新版》
+D:\临时\外贸数据\asr_output_语义解读v2
+D:\临时\外贸数据\asr_output_语义解读v2\1.全球检测认证，同步更新
+D:\临时\外贸数据\asr_output_语义解读v2\4.Mail Group专业开发，必须跟原创者学
+D:\临时\外贸数据\asr_output_语义解读v2\8.八  提高询盘成交量
+D:\临时\外贸数据\asr_output_语义解读v2\Cold Call实操全攻略
+D:\临时\外贸数据\asr_output_语义解读v2\Doing business in Turkey
+D:\临时\外贸数据\asr_output_语义解读v2\Strikingly建站课程--快速搭建营销型独立网站
+D:\临时\外贸数据\asr_output_语义解读v2\YouTube视频营销推广
+D:\临时\外贸数据\asr_output_语义解读v2\YouTube运营推广实战技巧
+D:\临时\外贸数据\asr_output_语义解读v2\业务课《十五大模块★2024新版》
+D:\临时\外贸数据\asr_output_语义解读v2\东南亚市场特点及开拓
+D:\临时\外贸数据\asr_output_语义解读v2\中东市场分析及开发攻略
+D:\临时\外贸数据\asr_output_语义解读v2\从思维到实操--亚马逊新手必学
+D:\临时\外贸数据\asr_output_语义解读v2\传统欧美市场
+D:\临时\外贸数据\asr_output_语义解读v2\北非市场开拓
+D:\临时\外贸数据\asr_output_语义解读v2\国际贸语术语解析
+D:\临时\外贸数据\asr_output_语义解读v2\外贸实战集训营--外贸十项技能班
+D:\临时\外贸数据\asr_output_语义解读v2\外贸常用实用小工具荟萃
+D:\临时\外贸数据\asr_output_语义解读v2\外贸搜索工具
+D:\临时\外贸数据\asr_output_语义解读v2\外贸营销36技
+D:\临时\外贸数据\asr_output_语义解读v2\外贸钓鱼诈骗邮件的识别和应对策略
+D:\临时\外贸数据\asr_output_语义解读v2\外贸防骗攻略
+D:\临时\外贸数据\asr_output_语义解读v2\如何成为报价高手
+D:\临时\外贸数据\asr_output_语义解读v2\如何通过外贸市场调查来锁定订单
+D:\临时\外贸数据\asr_output_语义解读v2\开发信没效果，你做对这些了吗
+D:\临时\外贸数据\asr_output_语义解读v2\成交系列课程
+D:\临时\外贸数据\asr_output_语义解读v2\打造高超的英文能力助力订单落地
+D:\临时\外贸数据\asr_output_语义解读v2\新兴市场开拓
+D:\临时\外贸数据\asr_output_语义解读v2\海外大客户开发
+D:\临时\外贸数据\asr_output_语义解读v2\自建站布局与营销策略
+D:\临时\外贸数据\asr_output_语义解读v2\询盘处理和邮件跟进技巧
+D:\临时\外贸数据\asr_output_语义解读v2\跨境电商独立站全链路培训
+D:\临时\外贸数据\asr_output_语义解读v2\轻松上手的社媒营销策划课
+D:\临时\外贸数据\asr_output_语义解读v2\邮寄样品和样品沟通的开发信写作技巧
+D:\临时\外贸数据\asr_output_语义解读v2\非洲市场开拓策略
+D:\临时\外贸数据\业务课《十五大模块★2024新版》
+D:\临时\外贸数据\业务课《十五大模块★2024新版》\1.一  导学：按图索骥，建立专业化外贸体系
+D:\临时\外贸数据\业务课《十五大模块★2024新版》\10.十  专业订单处理
+D:\临时\外贸数据\业务课《十五大模块★2024新版》\11.十一  团队管理与产品选择
+D:\临时\外贸数据\业务课《十五大模块★2024新版》\12.十二  分层次市场开拓
+D:\临时\外贸数据\国际物流海运及空运相关资料_md
+D:\临时\外贸数据\国际物流海运及空运相关资料_txt
+D:\临时\外贸数据\外贸知识库
+D:\临时\外贸数据\外贸知识库\.claude
+D:\临时\外贸数据\外贸知识库\PI发票与合同
+D:\临时\外贸数据\外贸知识库\产品认证、合规
+D:\临时\外贸数据\外贸知识库\付款
+D:\临时\外贸数据\外贸知识库\付款支付
+D:\临时\外贸数据\外贸知识库\关税
+D:\临时\外贸数据\外贸知识库\售后
+D:\临时\外贸数据\外贸知识库\报价谈判
+D:\临时\外贸数据\外贸知识库\提单与单证
+D:\临时\外贸数据\外贸知识库\清关与申报
+D:\临时\外贸数据\外贸知识库\物流欺诈与纠纷
+D:\临时\外贸数据\外贸知识库\生产与订单
+D:\临时\外贸数据\外贸知识库\获客
+D:\临时\外贸数据\外贸知识库\行业、地域风险分析和投资分析
+D:\临时\外贸数据\外贸知识库\询盘
+D:\临时\外贸数据\外贸知识库\运输方式
+D:\临时\外贸数据\外贸知识库\选品
+D:\临时\外贸数据\外贸知识库_拆分
+D:\临时\外贸数据\外贸知识库_拆分\.claude
+D:\临时\外贸数据\外贸知识库_拆分\PI发票与合同
+D:\临时\外贸数据\外贸知识库_拆分\产品认证、合规
+D:\临时\外贸数据\外贸知识库_拆分\付款
+D:\临时\外贸数据\外贸知识库_拆分\付款支付
+D:\临时\外贸数据\外贸知识库_拆分\关税
+D:\临时\外贸数据\外贸知识库_拆分\售后
+D:\临时\外贸数据\外贸知识库_拆分\报价谈判
+D:\临时\外贸数据\外贸知识库_拆分\提单与单证
+D:\临时\外贸数据\外贸知识库_拆分\清关与申报
+D:\临时\外贸数据\外贸知识库_拆分\物流欺诈与纠纷
+D:\临时\外贸数据\外贸知识库_拆分\生产与订单
+D:\临时\外贸数据\外贸知识库_拆分\获客
+D:\临时\外贸数据\外贸知识库_拆分\行业、地域风险分析和投资分析
+D:\临时\外贸数据\外贸知识库_拆分\询盘
+D:\临时\外贸数据\外贸知识库_拆分\运输方式
+D:\临时\外贸数据\外贸知识库_拆分\选品
+D:\临时\外贸数据\外贸知识库_重分类
+D:\临时\外贸数据\外贸知识库_重分类\价格谈判
+D:\临时\外贸数据\外贸知识库_重分类\单证与报关
+D:\临时\外贸数据\外贸知识库_重分类\合规认证
+D:\临时\外贸数据\外贸知识库_重分类\外贸入门
+D:\临时\外贸数据\外贸知识库_重分类\客户开发
+D:\临时\外贸数据\外贸知识库_重分类\市场与选品
+D:\临时\外贸数据\外贸知识库_重分类\报价方案
+D:\临时\外贸数据\外贸知识库_重分类\支付结算
+D:\临时\外贸数据\外贸知识库_重分类\样品管理
+D:\临时\外贸数据\外贸知识库_重分类\欺诈防范
+D:\临时\外贸数据\外贸知识库_重分类\物流运输
+D:\临时\外贸数据\外贸知识库_重分类\订单交付
+D:\临时\外贸数据\外贸知识库_重分类\询盘处理
+D:\临时\外贸数据\外贸知识库_重分类\贸易术语
+D:\临时\外贸数据\独家外贸资料包_最新版
+D:\临时\外贸数据\独家外贸资料包_最新版\毅冰独家外贸资料包_最新版
+D:\临时\外贸数据\进出口报关报检全套资料_md
+D:\临时\外贸数据\进出口报关报检全套资料_pdf
+D:\临时\外贸数据\进出口报关报检全套资料_txt
+D:\临时\对外投资合作国别指南2024
+D:\临时\数据分析
+D:\临时\数据分析\.claude
+D:\临时\毅冰文档汇总
+D:\临时\毅冰文档汇总\.claude
+D:\临时\毅冰文档汇总\temp_preview
+D:\临时\毅冰文档汇总\文档汇总
+D:\临时\毅冰文档汇总\文档汇总\1.全球检测认证，同步更新
+D:\临时\毅冰文档汇总\文档汇总\H333#毅冰.ICE外贸新系列【文档打开密码hxg3366b】
+D:\临时\毅冰文档汇总\文档汇总\video_parse_results
+D:\临时\毅冰文档汇总\文档汇总\外贸销售全流程工具包（Zoe_外贸创业笔记_10年外贸经验80份PDF汇总）
+D:\临时\询盘数据
+D:\临时\询盘数据\.claude
+D:\临时\询盘数据\询盘内容相关
+D:\临时\询盘数据\询盘内容相关\买家欺诈
+D:\临时\询盘数据\询盘内容相关\风格分类、多国特色询盘
+D:\临时\询盘数据\询盘分类及策略
+D:\临时\询盘数据\询盘分类及策略\数据来源分析
+D:\临时\询盘数据\询盘分类及策略\询盘分类及策略
+D:\临时\询盘数据\询盘回复模板
+D:\临时\询盘数据\询盘回复模板\按场景分类
+D:\临时\询盘数据\询盘回复模板\按案例分类
+D:\临时\询盘数据\谈判与场景应对
+D:\临时\询盘数据\谈判与场景应对\价格谈判
+D:\临时\询盘数据\谈判与场景应对\客户信任与异议
+D:\临时\询盘数据\谈判与场景应对\客户识别与跟进
+D:\临时\询盘数据\谈判与场景应对\报价与条款
+D:\临时\询盘数据\谈判与场景应对\谈判心理与技巧
+D:\临时\询盘数据\谈判与场景应对\身份与合规场景
+D:\临时\询盘数据\风险与合规
+D:\临时\询盘数据\风险与合规\买家识别与欺诈
+D:\临时\询盘数据\风险与合规\产品合规与认证
+D:\临时\询盘数据\风险与合规\支付风险
+D:\临时\询盘数据\风险与合规\行业地域风险
+D:\临时\询盘数据\风险合规知识
+D:\临时\询盘数据\风险合规知识\产品合规
+D:\临时\询盘数据\风险合规知识\支付风险
+D:\临时\询盘数据\风险合规知识\行业、地域风险
+D:\外贸知识库_清洗输出
+D:\外贸知识库_清洗输出\PI发票与合同
+D:\外贸知识库_清洗输出\产品认证、合规
+D:\外贸知识库_清洗输出\付款
+D:\外贸知识库_清洗输出\付款支付
+D:\外贸知识库_清洗输出\关税
+D:\外贸知识库_清洗输出\售后
+D:\外贸知识库_清洗输出\报价谈判
+D:\外贸知识库_清洗输出\提单与单证
+D:\外贸知识库_清洗输出\清关与申报
+D:\外贸知识库_清洗输出\物流欺诈与纠纷
+D:\外贸知识库_清洗输出\生产与订单
+D:\外贸知识库_清洗输出\看厂撞车案例
+D:\外贸知识库_清洗输出\看厂撞车案例\structured
+D:\外贸知识库_清洗输出\获客
+D:\外贸知识库_清洗输出\行业、地域风险分析和投资分析
+D:\外贸知识库_清洗输出\询盘
+D:\外贸知识库_清洗输出\运输方式
+D:\外贸知识库_清洗输出\选品
+D:\外贸知识库_清洗输出_1
+D:\小鹅通数据
+D:\小鹅通数据\.claude
+D:\小鹅通数据\Cold Call实操全攻略
+D:\小鹅通数据\Cold Call实操全攻略\01 Cold Call实操全攻略
+D:\小鹅通数据\Doing business in Turkey
+D:\小鹅通数据\Doing business in Turkey\01 Doing business in Turkey
+D:\小鹅通数据\Strikingly建站课程--快速搭建营销型独立网站
+D:\小鹅通数据\Strikingly建站课程--快速搭建营销型独立网站\01 Strikingly建站课程--快速搭建营销型独立网站
+D:\小鹅通数据\YouTube视频营销推广
+D:\小鹅通数据\YouTube视频营销推广\01 YouTube视频营销推广
+D:\小鹅通数据\YouTube运营推广实战技巧
+D:\小鹅通数据\YouTube运营推广实战技巧\01 YouTube运营推广实战技巧
+D:\小鹅通数据\东南亚市场特点及开拓
+D:\小鹅通数据\东南亚市场特点及开拓\01 东南亚市场特点及开拓
+D:\小鹅通数据\中东市场分析及开发攻略
+D:\小鹅通数据\中东市场分析及开发攻略\01 中东市场分析及开发攻略
+D:\小鹅通数据\从思维到实操--亚马逊新手必学
+D:\小鹅通数据\从思维到实操--亚马逊新手必学\01 从思维到实操--亚马逊新手必学
+D:\小鹅通数据\传统欧美市场
+D:\小鹅通数据\传统欧美市场\01 传统欧美市场
+D:\小鹅通数据\北非市场开拓
+D:\小鹅通数据\北非市场开拓\01 北非市场开拓
+D:\小鹅通数据\国际贸语术语解析
+D:\小鹅通数据\国际贸语术语解析\01 国际贸语术语解析
+D:\小鹅通数据\外贸实战集训营--外贸十项技能班
+D:\小鹅通数据\外贸实战集训营--外贸十项技能班\01 外贸实战集训营--外贸十项技能班
+D:\小鹅通数据\外贸常用实用小工具荟萃
+D:\小鹅通数据\外贸常用实用小工具荟萃\01 外贸常用实用小工具荟萃
+D:\小鹅通数据\外贸搜索工具
+D:\小鹅通数据\外贸搜索工具\01 外贸搜索工具
+D:\小鹅通数据\外贸营销36技
+D:\小鹅通数据\外贸营销36技\01 外贸营销36技
+D:\小鹅通数据\外贸钓鱼诈骗邮件的识别和应对策略
+D:\小鹅通数据\外贸钓鱼诈骗邮件的识别和应对策略\01 外贸钓鱼诈骗邮件的识别和应对策略
+D:\小鹅通数据\外贸防骗攻略
+D:\小鹅通数据\外贸防骗攻略\01 外贸防骗攻略
+D:\小鹅通数据\如何成为报价高手
+D:\小鹅通数据\如何成为报价高手\01 如何成为报价高手
+D:\小鹅通数据\如何通过外贸市场调查来锁定订单
+D:\小鹅通数据\如何通过外贸市场调查来锁定订单\01 如何通过外贸市场调查来锁定订单
+D:\小鹅通数据\开发信没效果，你做对这些了吗
+D:\小鹅通数据\开发信没效果，你做对这些了吗\01 开发信没效果，你做对这些了吗
+D:\小鹅通数据\成交系列课程
+D:\小鹅通数据\成交系列课程\01 成交系列课程
+D:\小鹅通数据\打造高超的英文能力助力订单落地
+D:\小鹅通数据\打造高超的英文能力助力订单落地\01 打造高超的英文能力助力订单落地
+D:\小鹅通数据\新兴市场开拓
+D:\小鹅通数据\新兴市场开拓\01 新兴市场开拓
+D:\小鹅通数据\未分类课程
+D:\小鹅通数据\未分类课程\未分章
+D:\小鹅通数据\海外大客户开发
+D:\小鹅通数据\海外大客户开发\01 海外大客户开发
+D:\小鹅通数据\自建站布局与营销策略
+D:\小鹅通数据\自建站布局与营销策略\01 自建站布局与营销策略
+D:\小鹅通数据\询盘处理和邮件跟进技巧
+D:\小鹅通数据\询盘处理和邮件跟进技巧\01 询盘处理和邮件跟进技巧
+D:\小鹅通数据\跨境电商独立站全链路培训
+D:\小鹅通数据\跨境电商独立站全链路培训\01 跨境电商独立站全链路培训
+D:\小鹅通数据\转写分析
+D:\小鹅通数据\转写分析\Cold Call实操全攻略
+D:\小鹅通数据\转写分析\Cold Call实操全攻略\01 Cold Call实操全攻略
+D:\小鹅通数据\转写分析\Doing business in Turkey
+D:\小鹅通数据\转写分析\Doing business in Turkey\01 Doing business in Turkey
+D:\小鹅通数据\转写分析\Strikingly建站课程--快速搭建营销型独立网站
+D:\小鹅通数据\转写分析\Strikingly建站课程--快速搭建营销型独立网站\01 Strikingly建站课程--快速搭建营销型独立网站
+D:\小鹅通数据\转写分析\YouTube视频营销推广
+D:\小鹅通数据\转写分析\YouTube视频营销推广\01 YouTube视频营销推广
+D:\小鹅通数据\转写分析\YouTube运营推广实战技巧
+D:\小鹅通数据\转写分析\YouTube运营推广实战技巧\01 YouTube运营推广实战技巧
+D:\小鹅通数据\转写分析\东南亚市场特点及开拓
+D:\小鹅通数据\转写分析\东南亚市场特点及开拓\01 东南亚市场特点及开拓
+D:\小鹅通数据\转写分析\中东市场分析及开发攻略
+D:\小鹅通数据\转写分析\中东市场分析及开发攻略\01 中东市场分析及开发攻略
+D:\小鹅通数据\转写分析\从思维到实操--亚马逊新手必学
+D:\小鹅通数据\转写分析\从思维到实操--亚马逊新手必学\01 从思维到实操--亚马逊新手必学
+D:\小鹅通数据\转写分析\传统欧美市场
+D:\小鹅通数据\转写分析\传统欧美市场\01 传统欧美市场
+D:\小鹅通数据\转写分析\北非市场开拓
+D:\小鹅通数据\转写分析\北非市场开拓\01 北非市场开拓
+D:\小鹅通数据\转写分析\国际贸语术语解析
+D:\小鹅通数据\转写分析\国际贸语术语解析\01 国际贸语术语解析
+D:\小鹅通数据\转写分析\外贸实战集训营--外贸十项技能班
+D:\小鹅通数据\转写分析\外贸实战集训营--外贸十项技能班\01 外贸实战集训营--外贸十项技能班
+D:\小鹅通数据\转写分析\外贸常用实用小工具荟萃
+D:\小鹅通数据\转写分析\外贸常用实用小工具荟萃\01 外贸常用实用小工具荟萃
+D:\小鹅通数据\转写分析\外贸搜索工具
+D:\小鹅通数据\转写分析\外贸搜索工具\01 外贸搜索工具
+D:\小鹅通数据\转写分析\外贸营销36技
+D:\小鹅通数据\转写分析\外贸营销36技\01 外贸营销36技
+D:\小鹅通数据\转写分析\外贸钓鱼诈骗邮件的识别和应对策略
+D:\小鹅通数据\转写分析\外贸钓鱼诈骗邮件的识别和应对策略\01 外贸钓鱼诈骗邮件的识别和应对策略
+D:\小鹅通数据\转写分析\外贸防骗攻略
+D:\小鹅通数据\转写分析\外贸防骗攻略\01 外贸防骗攻略
+D:\小鹅通数据\转写分析\如何成为报价高手
+D:\小鹅通数据\转写分析\如何成为报价高手\01 如何成为报价高手
+D:\小鹅通数据\转写分析\如何通过外贸市场调查来锁定订单
+D:\小鹅通数据\转写分析\如何通过外贸市场调查来锁定订单\01 如何通过外贸市场调查来锁定订单
+D:\小鹅通数据\转写分析\开发信没效果，你做对这些了吗
+D:\小鹅通数据\转写分析\开发信没效果，你做对这些了吗\01 开发信没效果，你做对这些了吗
+D:\小鹅通数据\转写分析\成交系列课程
+D:\小鹅通数据\转写分析\成交系列课程\01 成交系列课程
+D:\小鹅通数据\转写分析\打造高超的英文能力助力订单落地
+D:\小鹅通数据\转写分析\打造高超的英文能力助力订单落地\01 打造高超的英文能力助力订单落地
+D:\小鹅通数据\转写分析\新兴市场开拓
+D:\小鹅通数据\转写分析\新兴市场开拓\01 新兴市场开拓
+D:\小鹅通数据\转写分析\海外大客户开发
+D:\小鹅通数据\转写分析\海外大客户开发\01 海外大客户开发
+D:\小鹅通数据\转写分析\自建站布局与营销策略
+D:\小鹅通数据\转写分析\自建站布局与营销策略\01 自建站布局与营销策略
+D:\小鹅通数据\转写分析\询盘处理和邮件跟进技巧
+D:\小鹅通数据\转写分析\询盘处理和邮件跟进技巧\01 询盘处理和邮件跟进技巧
+D:\小鹅通数据\转写分析\跨境电商独立站全链路培训
+D:\小鹅通数据\转写分析\跨境电商独立站全链路培训\01 跨境电商独立站全链路培训
+D:\小鹅通数据\转写分析\轻松上手的社媒营销策划课
+D:\小鹅通数据\转写分析\轻松上手的社媒营销策划课\01 轻松上手的社媒营销策划课
+D:\小鹅通数据\转写分析\邮寄样品和样品沟通的开发信写作技巧
+D:\小鹅通数据\转写分析\邮寄样品和样品沟通的开发信写作技巧\01 邮寄样品和样品沟通的开发信写作技巧
+D:\小鹅通数据\转写分析\非洲市场开拓策略
+D:\小鹅通数据\转写分析\非洲市场开拓策略\01 非洲市场开拓策略
+D:\小鹅通数据\转写结果
+D:\小鹅通数据\转写结果\Cold Call实操全攻略
+D:\小鹅通数据\转写结果\Cold Call实操全攻略\01 Cold Call实操全攻略
+D:\小鹅通数据\转写结果\Doing business in Turkey
+D:\小鹅通数据\转写结果\Doing business in Turkey\01 Doing business in Turkey
+D:\小鹅通数据\转写结果\Strikingly建站课程--快速搭建营销型独立网站
+D:\小鹅通数据\转写结果\Strikingly建站课程--快速搭建营销型独立网站\01 Strikingly建站课程--快速搭建营销型独立网站
+D:\小鹅通数据\转写结果\YouTube视频营销推广
+D:\小鹅通数据\转写结果\YouTube视频营销推广\01 YouTube视频营销推广
+D:\小鹅通数据\转写结果\YouTube运营推广实战技巧
+D:\小鹅通数据\转写结果\YouTube运营推广实战技巧\01 YouTube运营推广实战技巧
+D:\小鹅通数据\转写结果\东南亚市场特点及开拓
+D:\小鹅通数据\转写结果\东南亚市场特点及开拓\01 东南亚市场特点及开拓
+D:\小鹅通数据\转写结果\中东市场分析及开发攻略
+D:\小鹅通数据\转写结果\中东市场分析及开发攻略\01 中东市场分析及开发攻略
+D:\小鹅通数据\转写结果\从思维到实操--亚马逊新手必学
+D:\小鹅通数据\转写结果\从思维到实操--亚马逊新手必学\01 从思维到实操--亚马逊新手必学
+D:\小鹅通数据\转写结果\传统欧美市场
+D:\小鹅通数据\转写结果\传统欧美市场\01 传统欧美市场
+D:\小鹅通数据\转写结果\北非市场开拓
+D:\小鹅通数据\转写结果\北非市场开拓\01 北非市场开拓
+D:\小鹅通数据\转写结果\国际贸语术语解析
+D:\小鹅通数据\转写结果\国际贸语术语解析\01 国际贸语术语解析
+D:\小鹅通数据\转写结果\外贸实战集训营--外贸十项技能班
+D:\小鹅通数据\转写结果\外贸实战集训营--外贸十项技能班\01 外贸实战集训营--外贸十项技能班
+D:\小鹅通数据\转写结果\外贸常用实用小工具荟萃
+D:\小鹅通数据\转写结果\外贸常用实用小工具荟萃\01 外贸常用实用小工具荟萃
+D:\小鹅通数据\转写结果\外贸搜索工具
+D:\小鹅通数据\转写结果\外贸搜索工具\01 外贸搜索工具
+D:\小鹅通数据\转写结果\外贸营销36技
+D:\小鹅通数据\转写结果\外贸营销36技\01 外贸营销36技
+D:\小鹅通数据\转写结果\外贸钓鱼诈骗邮件的识别和应对策略
+D:\小鹅通数据\转写结果\外贸钓鱼诈骗邮件的识别和应对策略\01 外贸钓鱼诈骗邮件的识别和应对策略
+D:\小鹅通数据\转写结果\外贸防骗攻略
+D:\小鹅通数据\转写结果\外贸防骗攻略\01 外贸防骗攻略
+D:\小鹅通数据\转写结果\如何成为报价高手
+D:\小鹅通数据\转写结果\如何成为报价高手\01 如何成为报价高手
+D:\小鹅通数据\转写结果\如何通过外贸市场调查来锁定订单
+D:\小鹅通数据\转写结果\如何通过外贸市场调查来锁定订单\01 如何通过外贸市场调查来锁定订单
+D:\小鹅通数据\转写结果\开发信没效果，你做对这些了吗
+D:\小鹅通数据\转写结果\开发信没效果，你做对这些了吗\01 开发信没效果，你做对这些了吗
+D:\小鹅通数据\转写结果\成交系列课程
+D:\小鹅通数据\转写结果\成交系列课程\01 成交系列课程
+D:\小鹅通数据\转写结果\打造高超的英文能力助力订单落地
+D:\小鹅通数据\转写结果\打造高超的英文能力助力订单落地\01 打造高超的英文能力助力订单落地
+D:\小鹅通数据\转写结果\新兴市场开拓
+D:\小鹅通数据\转写结果\新兴市场开拓\01 新兴市场开拓
+D:\小鹅通数据\转写结果\海外大客户开发
+D:\小鹅通数据\转写结果\海外大客户开发\01 海外大客户开发
+D:\小鹅通数据\转写结果\自建站布局与营销策略
+D:\小鹅通数据\转写结果\自建站布局与营销策略\01 自建站布局与营销策略
+D:\小鹅通数据\转写结果\询盘处理和邮件跟进技巧
+D:\小鹅通数据\转写结果\询盘处理和邮件跟进技巧\01 询盘处理和邮件跟进技巧
+D:\小鹅通数据\转写结果\跨境电商独立站全链路培训
+D:\小鹅通数据\转写结果\跨境电商独立站全链路培训\01 跨境电商独立站全链路培训
+D:\小鹅通数据\转写结果\轻松上手的社媒营销策划课
+D:\小鹅通数据\转写结果\轻松上手的社媒营销策划课\01 轻松上手的社媒营销策划课
+D:\小鹅通数据\转写结果\邮寄样品和样品沟通的开发信写作技巧
+D:\小鹅通数据\转写结果\邮寄样品和样品沟通的开发信写作技巧\01 邮寄样品和样品沟通的开发信写作技巧
+D:\小鹅通数据\转写结果\非洲市场开拓策略
+D:\小鹅通数据\转写结果\非洲市场开拓策略\01 非洲市场开拓策略
+D:\小鹅通数据\轻松上手的社媒营销策划课
+D:\小鹅通数据\轻松上手的社媒营销策划课\01 轻松上手的社媒营销策划课
+D:\小鹅通数据\邮寄样品和样品沟通的开发信写作技巧
+D:\小鹅通数据\邮寄样品和样品沟通的开发信写作技巧\01 邮寄样品和样品沟通的开发信写作技巧
+D:\小鹅通数据\非洲市场开拓策略
+D:\小鹅通数据\非洲市场开拓策略\01 非洲市场开拓策略
+D:\项目管理
+D:\项目管理\.claude
+D:\项目管理\project_management
+D:\项目管理\project_management\project-check-notes
+D:\项目管理\project_management\project-create
+D:\项目管理\project_management\project-update-notes
+D:\项目管理\project_management\project-update-progress
+D:\项目管理\work_projects
+D:\项目管理\work_projects\AI电话成本预估项目
+D:\项目管理\work_projects\AI电话成本预估项目\.claude
+D:\项目管理\work_projects\AI电话成本预估项目\20260509
+D:\项目管理\work_projects\AI电话成本预估项目\20260511
+D:\项目管理\work_projects\AI电话成本预估项目\sql
+D:\项目管理\work_projects\AI电话目标数据更新项目
+D:\项目管理\work_projects\AI电话目标数据更新项目\.claude
+D:\项目管理\work_projects\AI电话目标数据更新项目\20260507
+D:\项目管理\work_projects\AI电话目标数据更新项目\20260511
+D:\项目管理\work_projects\AI电话目标数据更新项目\20260513
+D:\项目管理\work_projects\AI电话目标数据更新项目\20260514
+D:\项目管理\work_projects\AI电话目标数据更新项目\20260515
+D:\项目管理\work_projects\AI电话目标数据更新项目\SQL
+D:\项目管理\work_projects\AI问数项目
+D:\项目管理\work_projects\AI问数项目\.claude
+D:\项目管理\work_projects\AI问数项目\ai-data-analysis
+D:\项目管理\work_projects\南通微信分析专项项目
+D:\项目管理\work_projects\南通微信分析专项项目\sql
+D:\项目管理\work_projects\外贸知识库构建项目
+D:\项目管理\work_projects\外贸知识库构建项目\.claude
+D:\项目管理\work_projects\外贸知识库构建项目\projects
+D:\项目管理\work_projects\外贸知识库构建项目\参考代码
+D:\项目管理\work_projects\外贸知识库构建项目\外贸知识库_拆分
+D:\项目管理\work_projects\外贸知识库构建项目\外贸知识库_拆分_脱敏
+D:\项目管理\work_projects\外贸知识库构建项目\外贸知识库_清洗输出
+D:\项目管理\work_projects\客户线索盘点分层项目
+D:\项目管理\work_projects\客户线索盘点分层项目\.claude
+D:\项目管理\work_projects\客户线索盘点分层项目\sql
+D:\项目管理\work_projects\汇报集合
+D:\项目管理\work_projects\汇报集合\第二次月度汇报
+D:\项目管理\work_projects\福步爬虫
+D:\项目管理\work_projects\福步爬虫\出口交流
+D:\项目管理\work_projects\马上问主营产品分析接口debug项目
+D:\项目管理\work_projects\马上问主营产品分析接口debug项目\.claude
+D:\项目管理\work_projects\马上问主营产品分析接口debug项目\代码
