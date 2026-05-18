@@ -34,60 +34,17 @@ fp() {
         fp build
     fi
 
-    while true; do
-        echo ""
-        printf "\033[1;36m搜索目录> \033[0m"
-        read -r query
+    # fzf 搜索，回车选择
+    local dir
+    dir=$(fzf --prompt="搜索目录> " --height=40% --reverse --no-mouse < "$FP_CACHE")
 
-        [ -z "$query" ] && continue
-
-        # 用 awk 一次性完成匹配+评分+排序，速度快
-        local results
-        results=$(awk -v q="${query,,}" '
-        BEGIN { FS="/"; qi=tolower(q) }
-        {
-            name=tolower($NF)
-            path=tolower($0)
-            score=0
-            if (name==qi) score=10000
-            else if (index(name, qi)==1) score=5000
-            else if (index(name, qi)>0) score=3000
-            else if (index(path, qi)>0) score=1000
-            if (score>0) print score"\t"$0
-        }' "$FP_CACHE" | sort -rn | head -20 | cut -f2-)
-
-        if [ -z "$results" ]; then
-            echo "没有匹配结果，换个关键字试试"
-            continue
-        fi
-
-        # 显示编号列表
-        local i=1
-        while IFS= read -r line; do
-            printf "  \033[33m%2d\033[0m) %s\n" "$i" "$line"
-            ((i++))
-        done <<< "$results"
-
-        # 选择
-        printf "\033[1;36m选择序号 (0重新搜索, q退出)> \033[0m"
-        read -r num
-
-        [ "$num" = "q" ] && return
-        [ "$num" = "0" ] && continue
-
-        local dir
-        dir=$(echo "$results" | sed -n "${num}p")
-        [ -z "$dir" ] && continue
-
-        echo ""
+    if [ -n "$dir" ]; then
         printf "\033[32m→ %s\033[0m\n" "$dir"
         cd "$dir" || return
-
         if [ -n "$use_memory" ]; then
             claude -c
         else
             claude
         fi
-        return
-    done
+    fi
 }
