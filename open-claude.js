@@ -52,16 +52,7 @@ function buildCache() {
   }
 
   folders.sort();
-
-  // 读取 .fp_desc 合并描述
-  const lines = folders.map(f => {
-    const descFile = path.join(f, '.fp_desc');
-    let desc = '';
-    try { desc = fs.readFileSync(descFile, 'utf8').split('\n')[0]; } catch {}
-    return desc ? `${f}\t${desc}` : f;
-  });
-
-  fs.writeFileSync(CACHE_FILE, lines.join('\n'), 'utf8');
+  fs.writeFileSync(CACHE_FILE, folders.join('\n'), 'utf8');
   return folders.length;
 }
 
