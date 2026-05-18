@@ -35,39 +35,26 @@ fp() {
     fi
 
     while true; do
-        # 输入关键字
         echo ""
         printf "\033[1;36m搜索目录> \033[0m"
         read -r query
 
         [ -z "$query" ] && continue
 
-        # 按匹配度排序搜索
+        # 用 awk 一次性完成匹配+评分+排序，速度快
         local results
-        results=$(
-            while IFS= read -r line; do
-                local lower_line
-                lower_line=$(echo "$line" | tr '[:upper:]' '[:lower:]')
-                local lower_q
-                lower_q=$(echo "$query" | tr '[:upper:]' '[:lower:]')
-
-                # 提取最后一级目录名
-                local name
-                name=$(basename "$line" | tr '[:upper:]' '[:lower:]')
-
-                local score=0
-                # 完全匹配
-                [ "$name" = "$lower_q" ] && score=10000
-                # 前缀匹配
-                [ "$score" = "0" ] && [ "${name#$lower_q}" != "$name" ] && score=5000
-                # 包含匹配(目录名)
-                [ "$score" = "0" ] && echo "$name" | grep -q "$lower_q" && score=3000
-                # 包含匹配(全路径)
-                [ "$score" = "0" ] && echo "$lower_line" | grep -q "$lower_q" && score=1000
-
-                [ "$score" -gt 0 ] && echo "$score|$line"
-            done < "$FP_CACHE" | sort -rn | head -20 | cut -d'|' -f2-
-        )
+        results=$(awk -v q="${query,,}" '
+        BEGIN { FS="/"; qi=tolower(q) }
+        {
+            name=tolower($NF)
+            path=tolower($0)
+            score=0
+            if (name==qi) score=10000
+            else if (index(name, qi)==1) score=5000
+            else if (index(name, qi)>0) score=3000
+            else if (index(path, qi)>0) score=1000
+            if (score>0) print score"\t"$0
+        }' "$FP_CACHE" | sort -rn | head -20 | cut -f2-)
 
         if [ -z "$results" ]; then
             echo "没有匹配结果，换个关键字试试"
@@ -88,7 +75,6 @@ fp() {
         [ "$num" = "q" ] && return
         [ "$num" = "0" ] && continue
 
-        # 提取选中行
         local dir
         dir=$(echo "$results" | sed -n "${num}p")
         [ -z "$dir" ] && continue
