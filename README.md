@@ -74,3 +74,56 @@ npm install
 - 如需修改脚本路径，编辑 `.ahk` 文件中对应的路径配置
 - 翻译功能依赖内部千问 API，需网络通畅
 - 首次使用搜索功能时会自动构建文件夹索引，可能需要几秒钟
+
+---
+
+## Linux / Docker 环境使用
+
+容器内没有 GUI，提供 CLI 版本的搜索目录打开 Claude。
+
+### 使用前准备
+
+1. 安装 [fzf](https://github.com/junegunn/fzf)：
+```bash
+# Debian/Ubuntu
+apt install fzf
+
+# 或直接下载
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
+```
+
+2. 安装 Claude Code CLI：
+```bash
+npm install -g @anthropic-ai/claude-code
+```
+
+### 安装
+
+将 `fp.sh` 加载到 `.bashrc`：
+
+```bash
+# 下载
+curl -o ~/fp.sh https://raw.githubusercontent.com/PennyXu/hot_key/main/fp.sh
+
+# 加到 .bashrc 末尾
+echo 'source ~/fp.sh' >> ~/.bashrc
+source ~/.bashrc
+```
+
+### 使用
+
+```bash
+fp            # 模糊搜索目录，打开 claude
+fp -c         # 模糊搜索目录，打开 claude -c（带记忆）
+fp build      # 重建目录缓存
+```
+
+### 配置
+
+编辑 `fp.sh` 顶部的变量自定义搜索行为：
+
+```bash
+FP_ROOTS=("/")              # 搜索根目录，如 ("/home" "/data" "/workspace")
+FP_DEPTH=4                  # 搜索深度
+FP_IGNORE="node_modules|..." # 忽略的目录模式
+```
