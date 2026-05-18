@@ -1,5 +1,5 @@
 {
-  "searchRoots": ["D:\\"],
+  "searchRoots": ["D:\\", "C:\\Users\\xupeng0117"],
   "maxDepth": 3,
   "ignoreDirs": [
     "$RECYCLE.BIN", "System Volume Information",

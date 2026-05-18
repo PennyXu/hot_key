@@ -25,6 +25,7 @@ ShowClaudeSearch() {
   edSearch := g.Add("Edit", "w700")
   lbResults := g.Add("ListBox", "w700 r20")
   chkMemory := g.Add("CheckBox",, "带记忆打开 (claude -c)")
+  chkVSCode := g.Add("CheckBox",, "VS Code 打开")
   btnOpen := g.Add("Button", "Default w100", "打开")
   btnRebuild := g.Add("Button", "wp", "重建索引")
 
@@ -33,8 +34,8 @@ ShowClaudeSearch() {
 
   ; 事件绑定
   edSearch.OnEvent("Change", (*) => UpdateResults(lbResults, folders, edSearch.Value))
-  lbResults.OnEvent("DoubleClick", (*) => OpenFolder(g, lbResults, chkMemory))
-  btnOpen.OnEvent("Click", (*) => OpenFolder(g, lbResults, chkMemory))
+  lbResults.OnEvent("DoubleClick", (*) => OpenFolder(g, lbResults, chkMemory, chkVSCode))
+  btnOpen.OnEvent("Click", (*) => OpenFolder(g, lbResults, chkMemory, chkVSCode))
   btnRebuild.OnEvent("Click", (*) => RebuildIndex(g, lbResults, folders))
   g.OnEvent("Close", (*) => g.Destroy())
 
@@ -44,16 +45,64 @@ ShowClaudeSearch() {
 
 UpdateResults(lb, folders, query) {
   lb.Delete()
-  count := 0
   q := StrLower(query)
-  for f in folders {
-    if (count >= 30)
-      break
-    if (q = "" || FuzzyMatch(q, StrLower(f))) {
+
+  if (q = "") {
+    count := 0
+    for f in folders {
+      if (count >= 30)
+        break
       lb.Add([f])
       count++
     }
+    return
   }
+
+  ; 评分，拼成 "分数|路径" 格式的字符串
+  sortStr := ""
+  for f in folders {
+    score := MatchScore(q, StrLower(f))
+    if (score > 0)
+      sortStr .= score "|" f "`n"
+  }
+
+  ; 按分数倒序排列
+  sortStr := Sort(sortStr, "R N")
+
+  ; 取前30个
+  count := 0
+  loop parse sortStr, "`n" {
+    if (count >= 30 || A_LoopField = "")
+      break
+    pos := InStr(A_LoopField, "|")
+    lb.Add([SubStr(A_LoopField, pos + 1)])
+    count++
+  }
+}
+
+MatchScore(query, text) {
+  SplitPath text, &name
+  nameL := StrLower(name)
+
+  ; 文件夹名完全匹配
+  if (nameL = query)
+    return 10000
+  ; 文件夹名以查询开头
+  if (SubStr(nameL, 1, StrLen(query)) = query)
+    return 5000
+  ; 文件夹名包含查询
+  if (InStr(nameL, query))
+    return 3000
+  ; 路径包含查询
+  if (InStr(text, query))
+    return 1000
+  ; 文件夹名模糊匹配
+  if (FuzzyMatch(query, nameL))
+    return 500
+  ; 全路径模糊匹配
+  if (FuzzyMatch(query, text))
+    return 100
+  return 0
 }
 
 FuzzyMatch(query, text) {
@@ -67,15 +116,27 @@ FuzzyMatch(query, text) {
   return qi > StrLen(query)
 }
 
-OpenFolder(g, lb, chk) {
+OpenFolder(g, lb, chkMem, chkCode) {
   folder := lb.Text
   if (folder = "")
     return
-  useMemory := chk.Value
+  useMemory := chkMem.Value
+  useVSCode := chkCode.Value
   g.Destroy()
 
   cmd := useMemory ? "claude -c" : "claude"
-  Run('cmd /k ' cmd, folder, "Max")
+
+  if useVSCode {
+    Run('"C:\Users\xupeng0117\AppData\Local\Programs\Microsoft VS Code\Code.exe" "' folder '"')
+    Sleep(3000)
+    WinActivate("ahk_exe Code.exe")
+    Sleep(500)
+    SendInput("^``")
+    Sleep(800)
+    SendInput(cmd "{Enter}")
+  } else {
+    Run('cmd /k ' cmd, folder, "Max")
+  }
 }
 
 RebuildIndex(g, lb, folders) {
